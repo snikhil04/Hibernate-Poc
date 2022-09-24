@@ -5,6 +5,7 @@ import org.hibernate.cfg.*;
 import org.hibernate.mapping.onetotone.entities.*;
 
 public class MainApp {
+
     public static void main(String[] args) {
 
         Configuration configuration = new Configuration();
