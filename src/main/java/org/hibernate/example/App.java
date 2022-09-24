@@ -1,8 +1,8 @@
-package org.example;
+package org.hibernate.example;
 
-import org.example.entities.*;
 import org.hibernate.*;
 import org.hibernate.cfg.*;
+import org.hibernate.example.entities.*;
 
 import java.io.*;
 
